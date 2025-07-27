@@ -27,21 +27,5 @@ Feel free to reach out by email: [marangelucky@gmail.com](mailto:marangelucky@gm
 ---
 
 Thanks for visiting!
-<script>
-  window.addEventListener("DOMContentLoaded", () => {
-    const sidebar = document.querySelector(".sidebar");
 
-    if (sidebar) {
-      const img = document.createElement("img");
-      img.src = "lucky-marange.jpg";
-      img.alt = "Lucky Marange";
-      img.style.width = "100px";
-      img.style.borderRadius = "50%";
-      img.style.display = "block";
-      img.style.margin = "10px auto";
-
-      sidebar.insertBefore(img, sidebar.querySelector("a"));
-    }
-  });
-</script>
 
