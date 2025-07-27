@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+
+gem "jekyll"
+
+# If you're using a specific theme, add it here.
+# For example, for jekyll-theme-minimal:
+# gem "jekyll-theme-minimal"
+
+# Optional: Add this if you want to serve your site locally with Jekyll
+# gem "webrick", "~> 1.7"
