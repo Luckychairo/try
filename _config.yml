@@ -1,5 +1,25 @@
-title: Lucky
+name: Lucky Marange
+position: Mathematics and Physics Educator
+profile: 
+  gravatar: false
+  image: "lucky-marange.jpg"
+  
+education:
+  - degree: BSc in Information Technology
+    university: North-West University (NWU)
+    date: 2019
+  - degree: BSc in Mathematics and Physics
+    university: University of South Africa (UNISA)
+    date: 2021
+  - degree: BEd in Mathematics and Physics
+    university: University of South Africa (UNISA)
+    date: 2022
+
+email: your.email@example.com
+phone: +27 123 456 7890
+github: your-github-username
+---
+
 theme: jekyll-theme-minimal
-show_downloads: true
 
 
