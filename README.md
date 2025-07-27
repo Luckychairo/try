@@ -1,31 +1,28 @@
-<img src="lucky-marange.jpg" alt="Lucky Marange" width="120" style="border-radius: 50%; display: block; margin-bottom: 15px;">
-# Welcome to Lucky's Page
+# Lucky Marange - Portfolio
 
-Hi! I'm **Lucky Marange**, a passionate software developer with a BSc in IT from **North-West University (NWU)**. I enjoy solving real-world problems using technology and building efficient, scalable applications.
+A portfolio website showcasing my academic background, skills, and projects. Built using Jekyll and hosted on GitHub Pages.
 
----
+## About
+This repository contains my personal portfolio website, which includes my education, skills, and professional experience. The website is built using Jekyll and the minimal theme.
 
-### 👨‍💻 About Me
-- 🎓 BSc in Information Technology — NWU
-- 💼 Aspiring full-stack developer
-- 🔐 Interest in Cybersecurity & DevOps
-- 🌍 Based in South Africa
+## Structure
+- `_config.yml`: Contains site configuration and personal information.
+- `index.md`: Main page content.
+- `lucky-marange.jpg`: Profile image.
 
----
+## Usage
+1. Clone this repository: `git clone https://github.com/your-username/your-repo-name.git`
+2. Install Jekyll and Bundler: `gem install jekyll bundler`
+3. Serve the site locally: `bundle exec jekyll serve`
+4. Open your browser to `http://localhost:4000`
 
-### 🛠 Skills & Technologies
-- **Languages:** Java, Python, JavaScript, HTML, CSS
-- **Databases:** Oracle SQL, MySQL
-- **Tools:** Git, GitHub, VS Code, Linux, Docker
-- **Frameworks:** Bootstrap, React (beginner), Spring Boot (learning)
+## Dependencies
+- Jekyll
+- Bundler
+- GitHub Pages
 
----
+## License
+[Your License Here]
 
-### 📫 Contact Me
-Feel free to reach out by email: [marangelucky@gmail.com](mailto:marangelucky@gmail.com)
-
----
-
-Thanks for visiting!
-
-
+## Contact
+For any inquiries, feel free to contact me at [your.email@example.com](mailto:your.email@example.com).
